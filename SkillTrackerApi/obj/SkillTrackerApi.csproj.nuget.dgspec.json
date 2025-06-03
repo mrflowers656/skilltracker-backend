@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/armando/Desktop/SkillTrackerApi/SkillTrackerApi/SkillTrackerApi.csproj": {}
+    "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj": {}
   },
   "projects": {
-    "/Users/armando/Desktop/SkillTrackerApi/SkillTrackerApi/SkillTrackerApi.csproj": {
+    "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/armando/Desktop/SkillTrackerApi/SkillTrackerApi/SkillTrackerApi.csproj",
+        "projectUniqueName": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
         "projectName": "SkillTrackerApi",
-        "projectPath": "/Users/armando/Desktop/SkillTrackerApi/SkillTrackerApi/SkillTrackerApi.csproj",
+        "projectPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
         "packagesPath": "/Users/armando/.nuget/packages/",
-        "outputPath": "/Users/armando/Desktop/SkillTrackerApi/SkillTrackerApi/obj/",
+        "outputPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/armando/.nuget/NuGet/NuGet.Config"

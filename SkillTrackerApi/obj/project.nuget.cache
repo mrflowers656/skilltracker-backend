@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ovdef+f+hfo=",
+  "dgSpecHash": "TzvI1NhgA6Y=",
   "success": true,
-  "projectFilePath": "/Users/armando/Desktop/SkillTrackerApi/SkillTrackerApi/SkillTrackerApi.csproj",
+  "projectFilePath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
   "expectedPackageFiles": [
     "/Users/armando/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/armando/.nuget/packages/microsoft.aspnetcore.openapi/8.0.11/microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
