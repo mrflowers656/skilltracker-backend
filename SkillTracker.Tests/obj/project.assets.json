@@ -8227,19 +8227,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/armando/.nuget/packages/": {}
+    "/home/armando/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTracker.Tests/SkillTracker.Tests.csproj",
+      "projectUniqueName": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTracker.Tests/SkillTracker.Tests.csproj",
       "projectName": "SkillTracker.Tests",
-      "projectPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTracker.Tests/SkillTracker.Tests.csproj",
-      "packagesPath": "/Users/armando/.nuget/packages/",
-      "outputPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTracker.Tests/obj/",
+      "projectPath": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTracker.Tests/SkillTracker.Tests.csproj",
+      "packagesPath": "/home/armando/.nuget/packages/",
+      "outputPath": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTracker.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/armando/.nuget/NuGet/NuGet.Config"
+        "/home/armando/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8251,8 +8251,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj": {
-              "projectPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj"
+            "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj": {
+              "projectPath": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj"
             }
           }
         }
@@ -8261,11 +8261,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8309,7 +8304,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

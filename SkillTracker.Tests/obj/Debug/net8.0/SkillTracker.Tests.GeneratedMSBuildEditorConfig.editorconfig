@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SkillTracker.Tests
-build_property.ProjectDir = /Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTracker.Tests/
+build_property.ProjectDir = /home/armando/Desktop/GitHub/skilltracker-backend/SkillTracker.Tests/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -26,6 +26,7 @@ namespace SkillTrackerApi.Controllers
         public async Task<ActionResult<Skill>> GetSkill(int id)
         {
             var skill = await _context.Skills.FindAsync(id);
+            //adding a comment
             return skill == null ? NotFound() : Ok(skill);
         }
 

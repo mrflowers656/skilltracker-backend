@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillTracker.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fc037437f3be9d6ad945f4e3bda98644c8633e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f9615fbdf051537afdd2b3b5e0831186c3e9e86")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillTracker.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillTracker.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

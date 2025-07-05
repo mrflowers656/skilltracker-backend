@@ -2728,19 +2728,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/armando/.nuget/packages/": {}
+    "/home/armando/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
+      "projectUniqueName": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
       "projectName": "SkillTrackerApi",
-      "projectPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
-      "packagesPath": "/Users/armando/.nuget/packages/",
-      "outputPath": "/Users/armando/Desktop/SkillTrackerApi/skilltracker-backend/SkillTrackerApi/obj/",
+      "projectPath": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTrackerApi/SkillTrackerApi.csproj",
+      "packagesPath": "/home/armando/.nuget/packages/",
+      "outputPath": "/home/armando/Desktop/GitHub/skilltracker-backend/SkillTrackerApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/armando/.nuget/NuGet/NuGet.Config"
+        "/home/armando/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2758,11 +2758,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2805,7 +2800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
